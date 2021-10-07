@@ -1,0 +1,9 @@
+name: PlayerReputation
+version: '${project.version}'
+main: org.kayteam.playerreputation.PlayerReputation
+api-version: 1.17
+prefix: PlayerReputation
+depend: [ PlaceholderAPI ]
+authors: [ SirOswaldo ]
+description: Give your players the chance to have a reputation
+website: https://kayteam.org
